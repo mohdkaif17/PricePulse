@@ -1,0 +1,50 @@
+id,subcategory_id,name,identifier_code,brand_or_manufacturer,description,is_active,created_at,updated_at
+1,5,Samsung Galaxy S24 (128GB),SM-S921BZKDINS,Samsung,"Flagship 6.2-inch Dynamic AMOLED 2X, Snapdragon 8 Gen 3",t,2026-11-01 23:00:30.301342+05:30,2026-11-01 23:00:30.301342+05:30
+2,5,Apple iPhone 15 (128GB),A3090-128,Apple,"6.1-inch Super Retina XDR, A16 Bionic, 48MP Main Camera",t,2026-11-01 23:00:30.306005+05:30,2026-11-01 23:00:30.306005+05:30
+3,6,Apple MacBook Air M3 (16GB/512GB),MC8K4HN/A,Apple,"13.6-inch Liquid Retina Display, 8-core CPU, 10-core GPU",t,2026-11-01 23:00:30.306058+05:30,2026-11-01 23:00:30.306058+05:30
+4,7,Sony Bravia 55-inch 4K Google TV,KD-55X74L,Sony,4K Ultra HD Smart LED Google TV with Dolby Audio,t,2026-11-01 23:00:30.306091+05:30,2026-11-01 23:00:30.306091+05:30
+5,22,2 BHK Apartment Monthly Rent,PRE-LAKE-2BHK,Prestige Estates,"2 BHK Semi-Furnished, 1250 sqft, 2 Baths, Car Parking",t,2026-11-01 23:00:30.3061+05:30,2026-11-01 23:00:30.3061+05:30
+6,23,Single Private Room PG Stay,STZ-EC-SNGL,Stanza Living,"Private AC room with attached bath, 3 meals & WiFi included",t,2026-11-01 23:00:30.306107+05:30,2026-11-01 23:00:30.306107+05:30
+7,21,3 BHK Luxury Apartment for Sale,PRE-LAKE-3BHK-S,Prestige Estates,"3 BHK 1780 sqft, Lake View, High Floor, Club House access",t,2026-11-01 23:00:30.306115+05:30,2026-11-01 23:00:30.306115+05:30
+8,10,Maruti Suzuki Swift VXi (Manual),MS-SWIFT-VXI,Maruti Suzuki,"1.2L Z-Series Petrol, 5-Speed Manual, Dual Airbags",t,2026-11-01 23:00:30.306122+05:30,2026-11-01 23:00:30.306122+05:30
+9,11,Honda Activa 6G (Standard),HND-ACT-6G-STD,Honda,"109.51cc BS6 Engine, PGM-FI, Combi-Brake System",t,2026-11-01 23:00:30.30613+05:30,2026-11-01 23:00:30.30613+05:30
+10,12,Comprehensive Car Periodic Service,PRT-SVC-10K,Pratham Motors,"Engine oil, filter replacement, brake inspection, 40-point check",t,2026-11-01 23:00:30.306136+05:30,2026-11-01 23:00:30.306137+05:30
+11,14,Cardiology Doctor Consultation,MNP-DOC-CARD,Manipal Hospital,Senior Consultant Cardiologist OP Consultation,t,2026-11-01 23:00:30.306143+05:30,2026-11-01 23:00:30.306143+05:30
+12,15,Lipid Profile Blood Test,APL-LAB-LIPID,Apollo Clinic,"Total Cholesterol, HDL, LDL, Triglycerides, VLDL automated assay",t,2026-11-01 23:00:30.306155+05:30,2026-11-01 23:00:30.306155+05:30
+13,17,Comprehensive Master Health Checkup,MNP-MHC-PKG,Manipal Hospital,"64 clinical parameters including ECG, Echo, CBC, USG Abdomen",t,2026-11-01 23:00:30.306164+05:30,2026-11-01 23:00:30.306164+05:30
+14,1,Standard AC Double Room (Per Night),GNG-BLR-STD,Ginger Hotels,"Queen bed, workspace, tea/coffee maker, ensuite bathroom",t,2026-11-01 23:00:30.306171+05:30,2026-11-01 23:00:30.306171+05:30
+15,2,Royal Premier Suite with Breakfast,LEELA-ROYAL-STE,The Leela Palace,"Luxury 800 sqft suite with balcony, access to Royal Club lounge",t,2026-11-01 23:00:30.30618+05:30,2026-11-01 23:00:30.30618+05:30
+16,33,Cultpass Elite (12-Month Unlimited),CULT-ELT-12M,Cult.fit,"Unlimited access to all Cult centers, gym floors, and group classes",t,2026-11-01 23:00:30.306187+05:30,2026-11-01 23:00:30.306187+05:30
+17,34,1-on-1 Personal Training (12 Sessions),CULT-PT-12S,Cult.fit,"Dedicated certified personal fitness coach, diet & biometric plan",t,2026-11-01 23:00:30.306195+05:30,2026-11-01 23:00:30.306195+05:30
+18,27,Unlimited Weekend Barbeque Dinner,BBQ-WKD-DIN,Barbeque Nation,"Live grill skewers on table, multi-cuisine buffet, dessert counter",t,2026-11-01 23:00:30.306206+05:30,2026-11-01 23:00:30.306206+05:30
+19,25,Signature Tint-In-Brew Beer Pitcher,TOIT-PIT-BRW,Toit Brewpub,Freshly crafted 1.5L artisanal Belgian Witbier pitcher,t,2026-11-01 23:00:30.306221+05:30,2026-11-01 23:00:30.306221+05:30
+20,31,Split AC Deep Jet Servicing,UC-AC-JET-CLN,Urban Company,"High-pressure water jet indoor & outdoor cleaning, gas pressure test",t,2026-11-01 23:00:30.306235+05:30,2026-11-01 23:00:30.306235+05:30
+21,29,Plumbing Repair & Leak Arrest,UC-PLUMB-REP,Urban Company,"Tap, flush valve, or pipeline repair by verified plumber",t,2026-11-01 23:00:30.306314+05:30,2026-11-01 23:00:30.306314+05:30
+22,18,Grade 10 Annual Comprehensive Fee,NPS-GR10-ANN,NPS Indiranagar,"Tuition, STEM laboratory, computer lab & library fees for 1 academic year",t,2026-11-01 23:00:30.306332+05:30,2026-11-01 23:00:30.306332+05:30
+23,36,India Gate Basmati Rice Classic (5 kg),IG-BASM-5KG,India Gate,Aged long grain premium fragrant basmati rice,t,2026-11-01 23:00:30.306345+05:30,2026-11-01 23:00:30.306345+05:30
+24,38,Surf Excel Matic Top Load Detergent (2 kg),SX-MATIC-2KG,Surf Excel,Enzymatic active stain removal detergent powder for washing machines,t,2026-11-01 23:00:30.30636+05:30,2026-11-01 23:00:30.30636+05:30
+25,5,Samsung Galaxy S24 (256GB),SM-S921BZKD256,Samsung,"Flagship 6.2-inch Dynamic AMOLED 2X, 8GB RAM, 256GB Storage",t,2026-11-02 00:23:50.193724+05:30,2026-11-02 00:23:50.193725+05:30
+26,5,Apple iPhone 15 (256GB),A3090-256,Apple,"6.1-inch Super Retina XDR, A16 Bionic, 256GB Storage",t,2026-11-02 00:23:50.195882+05:30,2026-11-02 00:23:50.195882+05:30
+27,6,Apple MacBook Air M3 (8GB/256GB),MRXN3HN/A,Apple,"13.6-inch Liquid Retina Display, 8-core CPU, 8GB Unified Memory",t,2026-11-02 00:23:50.195911+05:30,2026-11-02 00:23:50.195911+05:30
+28,7,LG 55-inch 4K Smart OLED TV,OLED55B3PSA,LG,"Self-lit OLED pixels, α7 AI Processor 4K Gen6, Dolby Vision & Atmos",t,2026-11-02 00:23:50.195922+05:30,2026-11-02 00:23:50.195922+05:30
+29,8,LG 260L 3-Star Inverter Refrigerator,GL-S292RDSX,LG,"Smart Inverter Compressor, Multi Air Flow, Convertible",t,2026-11-02 00:23:50.195931+05:30,2026-11-02 00:23:50.195931+05:30
+30,10,Maruti Suzuki Swift ZXi (Manual),MS-SWIFT-ZXI,Maruti Suzuki,"1.2L Z-Series, Alloy Wheels, Push Start, 6 Airbags",t,2026-11-02 00:23:50.195939+05:30,2026-11-02 00:23:50.195939+05:30
+31,11,Honda Activa 6G (Deluxe),HND-ACT-6G-DLX,Honda,"109.51cc BS6, LED Headlamp, Digital-Analog Meter",t,2026-11-02 00:23:50.195947+05:30,2026-11-02 00:23:50.195947+05:30
+32,12,Synthetic Engine Oil Flush Service,BOSCH-OIL-SVC,Bosch Service,"Full synthetic oil change, filter, engine flush & 30-pt safety audit",t,2026-11-02 00:23:50.195955+05:30,2026-11-02 00:23:50.195955+05:30
+33,14,General Physician Consultation,OP-GP-CONS,Apollo Clinic,"Primary healthcare consultation for fever, flu, lifestyle illness",t,2026-11-02 00:23:50.195963+05:30,2026-11-02 00:23:50.195963+05:30
+34,15,HbA1c Glycated Hemoglobin Test,LAB-HBA1C,Thyrocare,HPLC method average 3-month blood sugar assessment,t,2026-11-02 00:23:50.195971+05:30,2026-11-02 00:23:50.195971+05:30
+35,16,Root Canal Treatment with Zirconia Crown,DENT-RCT-CRN,Clove Dental,Painless single/two-sitting root canal with CAD/CAM zirconia crown,t,2026-11-02 00:23:50.19599+05:30,2026-11-02 00:23:50.19599+05:30
+36,1,Standard Non-AC Room (Per Night),HTL-STD-NAC,FabHotels,Clean budget private room with attached washroom,t,2026-11-02 00:23:50.196+05:30,2026-11-02 00:23:50.196+05:30
+37,2,Deluxe Business Room with Breakfast,HTL-DLX-BFST,Ibis Hotels,Modern queen room with breakfast and late checkout options,t,2026-11-02 00:23:50.196008+05:30,2026-11-02 00:23:50.196008+05:30
+38,4,Twin Sharing PG Bed with Food,PG-TWIN-BED,Zolo Stays,"Twin sharing room with 3 meals, WiFi, daily housekeeping",t,2026-11-02 00:23:50.196016+05:30,2026-11-02 00:23:50.196016+05:30
+39,22,3 BHK Apartment Monthly Rent,RE-3BHK-RNT,Brigade Group,"3 BHK 1750 sqft, Semi-Furnished, High Rise Gated Society",t,2026-11-02 00:23:50.196024+05:30,2026-11-02 00:23:50.196024+05:30
+40,21,2 BHK Apartment for Sale,RE-2BHK-SALE,Sobha Limited,"2 BHK 1180 sqft, Ready to Move, Clear Title, RERA Approved",t,2026-11-02 00:23:50.196031+05:30,2026-11-02 00:23:50.196032+05:30
+41,25,Special Masala Dosa,REST-MASALA-DOSA,Vidyarthi Bhavan,Crispy golden heritage ghee roast masala dosa with potato sagu,t,2026-11-02 00:23:50.19604+05:30,2026-11-02 00:23:50.19604+05:30
+42,25,Special Chicken Biryani (Serves 1-2),REST-CHK-BRY,Meghana Foods,Authentic spicy Andhra style bone chicken biryani with salan,t,2026-11-02 00:23:50.196048+05:30,2026-11-02 00:23:50.196048+05:30
+43,27,Unlimited Weekday Lunch Buffet,REST-WKD-LCH,Barbeque Nation,"Over 50 starters, main course, kulfi & dessert items",t,2026-11-02 00:23:50.196056+05:30,2026-11-02 00:23:50.196056+05:30
+44,30,Full Switchboard Replacement & Wiring,UC-ELEC-SWB,Urban Company,"Replacement of 8-module switchboard, MCB testing & safety check",t,2026-11-02 00:23:50.196068+05:30,2026-11-02 00:23:50.196068+05:30
+45,32,Complete 2 BHK Home Deep Cleaning,UC-CLN-2BHK,Urban Company,"Kitchen degreasing, bathroom scrubbing, floor buffing & sanitization",t,2026-11-02 00:23:50.196076+05:30,2026-11-02 00:23:50.196076+05:30
+46,33,Annual Gym Membership (Single Club),GYM-ANN-SNGL,Anytime Fitness,"24/7 access to single center, cardiovascular & resistance equipment",t,2026-11-02 00:23:50.196085+05:30,2026-11-02 00:23:50.196085+05:30
+47,35,Unlimited Monthly Yoga Classes,YOGA-MTH-UNLTD,Shwaasa Yoga,Daily 60-min Hatha & Ashtanga yoga morning/evening batches,t,2026-11-02 00:23:50.197788+05:30,2026-11-02 00:23:50.197788+05:30
+48,36,Fortune Sunlite Sunflower Oil (1 Litre Pouch),FORT-SUN-1L,Fortune,Refined sunflower cooking oil enriched with Vitamins A & D,t,2026-11-02 00:23:50.197803+05:30,2026-11-02 00:23:50.197803+05:30
+49,37,Dove Daily Shine Shampoo (650 ml),DOVE-SHMP-650,Dove (HUL),Damage repair nutritive serum shampoo with pump dispenser,t,2026-11-02 00:23:50.197813+05:30,2026-11-02 00:23:50.197813+05:30

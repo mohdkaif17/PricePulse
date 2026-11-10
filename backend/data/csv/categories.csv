@@ -1,0 +1,11 @@
+id,name,slug,description,icon_key,display_order,is_active,created_at,updated_at
+1,Hotels & Accommodation,hotels-accommodation,"Hotels, resorts, homestays, and PG hostels",ic_category_hotel,1,t,2026-11-01 23:00:30.254325+05:30,2026-11-01 23:00:30.254325+05:30
+2,Electronics & Appliances,electronics-appliances,"Gadgets, smartphones, laptops, TVs & appliances",ic_category_electronics,2,t,2026-11-01 23:00:30.259775+05:30,2026-11-01 23:00:30.259775+05:30
+3,Automotive,automotive,"Cars, bikes, periodic servicing & spare parts",ic_category_vehicles,3,t,2026-11-01 23:00:30.259819+05:30,2026-11-01 23:00:30.259819+05:30
+4,Healthcare,healthcare,"Doctors, diagnostic labs, clinics & health checks",ic_category_healthcare,4,t,2026-11-01 23:00:30.259833+05:30,2026-11-01 23:00:30.259833+05:30
+5,Education,education,"Schools, competitive tuition & professional skilling",ic_category_education,5,t,2026-11-01 23:00:30.259864+05:30,2026-11-01 23:00:30.259864+05:30
+6,Real Estate & Rentals,real-estate-rentals,"Apartments, independent houses, PGs & offices",ic_category_real_estate,6,t,2026-11-01 23:00:30.259878+05:30,2026-11-01 23:00:30.259878+05:30
+7,Restaurants & Food,restaurants-food,"Dine-in restaurants, cafes, buffets & meal boxes",ic_category_restaurants,7,t,2026-11-01 23:00:30.259889+05:30,2026-11-01 23:00:30.25989+05:30
+8,Home Services,home-services,"Plumbing, electricians, AC repair & cleaning",ic_category_services,8,t,2026-11-01 23:00:30.259901+05:30,2026-11-01 23:00:30.259901+05:30
+9,Fitness & Wellness,fitness-wellness,"Gyms, personal trainers, yoga & fitness studios",ic_category_fitness,9,t,2026-11-01 23:00:30.259913+05:30,2026-11-01 23:00:30.259913+05:30
+10,Shopping & Daily Essentials,shopping-daily-essentials,"Groceries, packaged foods & household essentials",ic_category_shopping,10,t,2026-11-01 23:00:30.259925+05:30,2026-11-01 23:00:30.259925+05:30

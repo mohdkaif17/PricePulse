@@ -1,0 +1,39 @@
+id,category_id,name,slug,description,item_type,display_order,is_active,created_at,updated_at
+1,1,Budget Hotels,hotels-budget,,service,1,t,2026-11-01 23:00:30.261462+05:30,2026-11-01 23:00:30.261462+05:30
+2,1,Premium Hotels,hotels-premium,,service,2,t,2026-11-01 23:00:30.267346+05:30,2026-11-01 23:00:30.267347+05:30
+3,1,Resorts,hotels-resorts,,service,3,t,2026-11-01 23:00:30.267554+05:30,2026-11-01 23:00:30.267554+05:30
+4,1,PG & Hostels,hotels-pg-hostels,,rental,4,t,2026-11-01 23:00:30.267632+05:30,2026-11-01 23:00:30.267632+05:30
+5,2,Smartphones,electronics-smartphones,,product,1,t,2026-11-01 23:00:30.267651+05:30,2026-11-01 23:00:30.267651+05:30
+6,2,Laptops,electronics-laptops,,product,2,t,2026-11-01 23:00:30.267662+05:30,2026-11-01 23:00:30.267662+05:30
+7,2,Televisions,electronics-televisions,,product,3,t,2026-11-01 23:00:30.267673+05:30,2026-11-01 23:00:30.267673+05:30
+8,2,Home Appliances,electronics-home-appliances,,product,4,t,2026-11-01 23:00:30.267697+05:30,2026-11-01 23:00:30.267697+05:30
+9,2,Accessories,electronics-accessories,,product,5,t,2026-11-01 23:00:30.267726+05:30,2026-11-01 23:00:30.267726+05:30
+10,3,Cars,automotive-cars,,product,1,t,2026-11-01 23:00:30.267737+05:30,2026-11-01 23:00:30.267737+05:30
+11,3,Two-Wheelers,automotive-two-wheelers,,product,2,t,2026-11-01 23:00:30.267747+05:30,2026-11-01 23:00:30.267747+05:30
+12,3,Vehicle Servicing,automotive-servicing,,service,3,t,2026-11-01 23:00:30.267757+05:30,2026-11-01 23:00:30.267757+05:30
+13,3,Spare Parts,automotive-spare-parts,,product,4,t,2026-11-01 23:00:30.267767+05:30,2026-11-01 23:00:30.267767+05:30
+14,4,Doctor Consultation,healthcare-consultation,,service,1,t,2026-11-01 23:00:30.267778+05:30,2026-11-01 23:00:30.267778+05:30
+15,4,Diagnostic Tests,healthcare-diagnostic-tests,,service,2,t,2026-11-01 23:00:30.26779+05:30,2026-11-01 23:00:30.267791+05:30
+16,4,Dental Treatments,healthcare-dental,,service,3,t,2026-11-01 23:00:30.267805+05:30,2026-11-01 23:00:30.267805+05:30
+17,4,Health Checkup Packages,healthcare-checkup-packages,,package,4,t,2026-11-01 23:00:30.267815+05:30,2026-11-01 23:00:30.267815+05:30
+18,5,School Fees,education-school-fees,,service,1,t,2026-11-01 23:00:30.267827+05:30,2026-11-01 23:00:30.267827+05:30
+19,5,Coaching & Tuition,education-coaching,,service,2,t,2026-11-01 23:00:30.267836+05:30,2026-11-01 23:00:30.267836+05:30
+20,5,Professional Courses,education-professional-courses,,service,3,t,2026-11-01 23:00:30.267846+05:30,2026-11-01 23:00:30.267846+05:30
+21,6,Apartments for Sale,realestate-apartments-sale,,product,1,t,2026-11-01 23:00:30.267858+05:30,2026-11-01 23:00:30.267858+05:30
+22,6,Houses for Rent,realestate-houses-rent,,rental,2,t,2026-11-01 23:00:30.267868+05:30,2026-11-01 23:00:30.267868+05:30
+23,6,PG Accommodation,realestate-pg-accommodation,,rental,3,t,2026-11-01 23:00:30.267919+05:30,2026-11-01 23:00:30.267919+05:30
+24,6,Commercial Properties,realestate-commercial,,rental,4,t,2026-11-01 23:00:30.267942+05:30,2026-11-01 23:00:30.267942+05:30
+25,7,Restaurants,food-restaurants,,product,1,t,2026-11-01 23:00:30.267961+05:30,2026-11-01 23:00:30.267962+05:30
+26,7,Cafes,food-cafes,,product,2,t,2026-11-01 23:00:30.267972+05:30,2026-11-01 23:00:30.267972+05:30
+27,7,Buffets,food-buffets,,package,3,t,2026-11-01 23:00:30.267982+05:30,2026-11-01 23:00:30.267982+05:30
+28,7,Food Packages,food-packages,,package,4,t,2026-11-01 23:00:30.267992+05:30,2026-11-01 23:00:30.267992+05:30
+29,8,Plumbing,homeservices-plumbing,,service,1,t,2026-11-01 23:00:30.268003+05:30,2026-11-01 23:00:30.268003+05:30
+30,8,Electrical Services,homeservices-electrical,,service,2,t,2026-11-01 23:00:30.268018+05:30,2026-11-01 23:00:30.268018+05:30
+31,8,AC Servicing,homeservices-ac,,service,3,t,2026-11-01 23:00:30.26803+05:30,2026-11-01 23:00:30.26803+05:30
+32,8,Cleaning & Pest Control,homeservices-cleaning-pest,,service,4,t,2026-11-01 23:00:30.26804+05:30,2026-11-01 23:00:30.26804+05:30
+33,9,Gym Memberships,fitness-gym-memberships,,service,1,t,2026-11-01 23:00:30.268051+05:30,2026-11-01 23:00:30.268051+05:30
+34,9,Personal Training,fitness-personal-training,,service,2,t,2026-11-01 23:00:30.268062+05:30,2026-11-01 23:00:30.268062+05:30
+35,9,Yoga & Fitness Classes,fitness-yoga-classes,,service,3,t,2026-11-01 23:00:30.268073+05:30,2026-11-01 23:00:30.268073+05:30
+36,10,Groceries,shopping-groceries,,product,1,t,2026-11-01 23:00:30.268083+05:30,2026-11-01 23:00:30.268083+05:30
+37,10,Personal Care,shopping-personal-care,,product,2,t,2026-11-01 23:00:30.268105+05:30,2026-11-01 23:00:30.268105+05:30
+38,10,Household Products,shopping-household,,product,3,t,2026-11-01 23:00:30.268116+05:30,2026-11-01 23:00:30.268116+05:30

@@ -1,0 +1,76 @@
+id,name,legal_name,business_type,phone,email,website,is_verified,is_active,created_at,updated_at
+1,Apex Electronics Koramangala,Apex Retail India Pvt Ltd,retail,080-25531001,contact@apexelectronics.com,,t,t,2026-11-01 23:00:30.282715+05:30,2026-11-01 23:00:30.282715+05:30
+2,Reliance Digital Indiranagar,Reliance Retail Limited,retail,080-41234567,indiranagar@reliancedigital.in,,t,t,2026-11-01 23:00:30.286183+05:30,2026-11-01 23:00:30.286184+05:30
+3,Prestige Lakeside Habitat,Prestige Estates Projects Ltd,real_estate_agency,080-25591080,sales@prestigeconstructions.com,,t,t,2026-11-01 23:00:30.286327+05:30,2026-11-01 23:00:30.286327+05:30
+4,Manipal Hospital Whitefield,Manipal Health Enterprises Pvt Ltd,hospital,080-61656666,info.whitefield@manipalhospitals.com,,t,t,2026-11-01 23:00:30.286348+05:30,2026-11-01 23:00:30.286348+05:30
+5,Apollo Clinic Koramangala,Apollo Health and Lifestyle Ltd,clinic,080-46688000,koramangala@apolloclinic.com,,t,t,2026-11-01 23:00:30.286359+05:30,2026-11-01 23:00:30.286359+05:30
+6,Pratham Motors Hebbal,Pratham Motors Pvt Ltd,retail,080-49123000,hebbal@prathammotors.com,,t,t,2026-11-01 23:00:30.28637+05:30,2026-11-01 23:00:30.28637+05:30
+7,Ginger Hotel Whitefield,Roots Corporation Limited (IHCL),hotel,080-66663333,reservations.whitefield@gingerhotels.com,,t,t,2026-11-01 23:00:30.286381+05:30,2026-11-01 23:00:30.286381+05:30
+8,The Leela Palace Indiranagar,HLV Ltd,hotel,080-25211234,reservations@theleela.com,,t,t,2026-11-01 23:00:30.28639+05:30,2026-11-01 23:00:30.28639+05:30
+9,Cult.fit HSR Layout,Curefit Healthcare Pvt Ltd,gym,080-68190000,support@cult.fit,,t,t,2026-11-01 23:00:30.2864+05:30,2026-11-01 23:00:30.2864+05:30
+10,Toit Brewpub Indiranagar,Toit Hospitality Pvt Ltd,restaurant,09019713388,cheers@toit.in,,t,t,2026-11-01 23:00:30.286408+05:30,2026-11-01 23:00:30.286409+05:30
+11,Barbeque Nation Koramangala,Barbeque Nation Hospitality Ltd,restaurant,080-60600000,feedback@barbequenation.com,,t,t,2026-11-01 23:00:30.286432+05:30,2026-11-01 23:00:30.286432+05:30
+12,Urban Company Bengaluru South,UrbanClap Technologies India Pvt Ltd,service_agency,080-45678900,help@urbancompany.com,,t,t,2026-11-01 23:00:30.286444+05:30,2026-11-01 23:00:30.286444+05:30
+13,National Public School Indiranagar,National Academy For Learning Trust,school,080-25280611,info@npsindiranagar.com,,t,t,2026-11-01 23:00:30.286462+05:30,2026-11-01 23:00:30.286462+05:30
+14,Nature's Basket Koramangala,Spencer's Retail Ltd,retail,080-41122334,customercare@naturesbasket.co.in,,t,t,2026-11-01 23:00:30.286475+05:30,2026-11-01 23:00:30.286475+05:30
+15,Stanza Living Electronic City,Dtwelve Spaces Pvt Ltd,pg_hostel,080-47184444,contact@stanzaliving.com,,t,t,2026-11-01 23:00:30.286497+05:30,2026-11-01 23:00:30.286497+05:30
+16,Croma Koramangala,Infiniti Retail Limited (Tata Group),retail,080-40912233,koramangala@croma.com,https://www.croma.com,t,t,2026-11-02 00:23:50.091771+05:30,2026-11-02 00:23:50.091771+05:30
+17,Croma Jayanagar,Infiniti Retail Limited (Tata Group),retail,080-40912244,jayanagar@croma.com,https://www.croma.com,t,t,2026-11-02 00:23:50.098688+05:30,2026-11-02 00:23:50.098688+05:30
+18,Croma Whitefield,Infiniti Retail Limited (Tata Group),retail,080-40912255,whitefield@croma.com,https://www.croma.com,t,t,2026-11-02 00:23:50.098732+05:30,2026-11-02 00:23:50.098732+05:30
+19,Girias Jayanagar,Girias Investment Pvt Ltd,retail,080-26633344,jayanagar@giriasindia.com,https://www.giriasindia.com,t,t,2026-11-02 00:23:50.09876+05:30,2026-11-02 00:23:50.09876+05:30
+20,Girias Rajajinagar,Girias Investment Pvt Ltd,retail,080-23155566,rajajinagar@giriasindia.com,https://www.giriasindia.com,t,t,2026-11-02 00:23:50.098788+05:30,2026-11-02 00:23:50.098788+05:30
+21,Poorvika Mobiles Marathahalli,Poorvika Mobiles Pvt Ltd,retail,080-41527788,marathahalli@poorvika.com,https://www.poorvika.com,t,t,2026-11-02 00:23:50.098822+05:30,2026-11-02 00:23:50.098822+05:30
+22,Poorvika Mobiles BTM,Poorvika Mobiles Pvt Ltd,retail,080-41527799,btm@poorvika.com,https://www.poorvika.com,t,t,2026-11-02 00:23:50.098839+05:30,2026-11-02 00:23:50.098839+05:30
+23,Pai International Malleshwaram,Pai International Electronics Ltd,retail,080-42461111,malleshwaram@paiinternational.in,https://www.paiinternational.in,t,t,2026-11-02 00:23:50.098874+05:30,2026-11-02 00:23:50.098874+05:30
+24,Kalyani Motors Banashankari,Kalyani Motors Pvt Ltd,retail,080-40405050,sales@kalyanimotors.com,https://www.kalyanimotors.com,t,t,2026-11-02 00:23:50.098899+05:30,2026-11-02 00:23:50.098899+05:30
+25,Bimal Auto Agency Marathahalli,Bimal Auto Agency India Pvt Ltd,retail,080-40608080,marathahalli@bimalmaruti.com,https://www.bimalmaruti.com,t,t,2026-11-02 00:23:50.098923+05:30,2026-11-02 00:23:50.098923+05:30
+26,Mandovi Motors Rajajinagar,Mandovi Motors Pvt Ltd,retail,080-41238888,rajajinagar@mandovimotors.com,https://www.mandovimotors.com,t,t,2026-11-02 00:23:50.09893+05:30,2026-11-02 00:23:50.09893+05:30
+27,Tanishq Honda Malleshwaram,Tanishq Motors Pvt Ltd,retail,080-23348899,info@tanishqhonda.com,https://www.honda2wheelersindia.com,t,t,2026-11-02 00:23:50.098939+05:30,2026-11-02 00:23:50.098939+05:30
+28,Silicon Honda Banashankari,Silicon Motors Pvt Ltd,retail,080-26792233,sales@siliconhonda.com,https://www.honda2wheelersindia.com,t,t,2026-11-02 00:23:50.098956+05:30,2026-11-02 00:23:50.098956+05:30
+29,GoMechanic HSR Layout,Targetone Innovations Pvt Ltd,service_agency,080-46809090,hsr@gomechanic.in,https://www.gomechanic.in,t,t,2026-11-02 00:23:50.098977+05:30,2026-11-02 00:23:50.098977+05:30
+30,Bosch Car Service Electronic City,Robert Bosch India Automotive Services,service_agency,080-28521000,service.ecity@boschcarservice.in,https://www.boschcarservice.com,t,t,2026-11-02 00:23:50.099001+05:30,2026-11-02 00:23:50.099001+05:30
+31,Manipal Hospital Jayanagar,Manipal Health Enterprises Pvt Ltd,hospital,080-26934444,jayanagar@manipalhospitals.com,https://www.manipalhospitals.com,t,t,2026-11-02 00:23:50.099023+05:30,2026-11-02 00:23:50.099023+05:30
+32,Manipal Hospital Malleshwaram,Manipal Health Enterprises Pvt Ltd,hospital,080-25024444,malleshwaram@manipalhospitals.com,https://www.manipalhospitals.com,t,t,2026-11-02 00:23:50.09905+05:30,2026-11-02 00:23:50.09905+05:30
+33,Fortis Hospital Bannerghatta,Fortis Healthcare Limited,hospital,080-66214444,enquiry.bg@fortishealthcare.com,https://www.fortishealthcare.com,t,t,2026-11-02 00:23:50.09909+05:30,2026-11-02 00:23:50.09909+05:30
+34,Aster CMI Hospital Hebbal,Aster DM Healthcare Limited,hospital,080-43455555,astercmi@asterhospital.com,https://www.asterhospitals.in,t,t,2026-11-02 00:23:50.099098+05:30,2026-11-02 00:23:50.099098+05:30
+35,Anand Diagnostic Jayanagar,Neuberg Anand Reference Laboratory,clinic,080-42456789,info@anandlab.com,https://www.neuberganand.com,t,t,2026-11-02 00:23:50.099115+05:30,2026-11-02 00:23:50.099115+05:30
+36,Dr. Lal PathLabs Indiranagar,Dr. Lal PathLabs Limited,clinic,080-41128899,indiranagar@lalpathlabs.com,https://www.lalpathlabs.com,t,t,2026-11-02 00:23:50.099132+05:30,2026-11-02 00:23:50.099132+05:30
+37,Thyrocare Center BTM,Thyrocare Technologies Limited,clinic,080-26685500,btm@thyrocare.com,https://www.thyrocare.com,t,t,2026-11-02 00:23:50.099153+05:30,2026-11-02 00:23:50.099153+05:30
+38,Clove Dental Indiranagar,Star Dental Centre Pvt Ltd,clinic,080-46808000,indiranagar@clovedental.in,https://www.clovedental.in,t,t,2026-11-02 00:23:50.099163+05:30,2026-11-02 00:23:50.099163+05:30
+39,Clove Dental Whitefield,Star Dental Centre Pvt Ltd,clinic,080-46808001,whitefield@clovedental.in,https://www.clovedental.in,t,t,2026-11-02 00:23:50.099183+05:30,2026-11-02 00:23:50.099183+05:30
+40,Ibis Bengaluru Hosur Road,InterGlobe Hotels / Accor,hotel,080-42540540,h6453@accor.com,https://all.accor.com,t,t,2026-11-02 00:23:50.099191+05:30,2026-11-02 00:23:50.099191+05:30
+41,Sheraton Grand Rajajinagar,Brigade Enterprises / Marriott,hotel,080-42521000,sheraton.bangalore@marriott.com,https://www.marriott.com,t,t,2026-11-02 00:23:50.099205+05:30,2026-11-02 00:23:50.099205+05:30
+42,Radisson Blu Marathahalli,Radisson Hotel Group,hotel,080-67076909,reservations@rdmarathahalli.com,https://www.radissonhotels.com,t,t,2026-11-02 00:23:50.099213+05:30,2026-11-02 00:23:50.099213+05:30
+43,Lemon Tree Hotel Electronic City,Lemon Tree Hotels Ltd,hotel,080-44232323,hi.ec@lemontreehotels.com,https://www.lemontreehotels.com,t,t,2026-11-02 00:23:50.099221+05:30,2026-11-02 00:23:50.099221+05:30
+44,Palm Meadows Resort Whitefield,Adarsh Group Hospitality,hotel,080-46231234,reservations@palmmeadows.com,https://www.palmmeadowsresort.com,t,t,2026-11-02 00:23:50.099251+05:30,2026-11-02 00:23:50.099251+05:30
+45,Zolo Stays Koramangala,Zolo Stays Property Solutions Pvt Ltd,pg_hostel,080-46484848,support@zolostays.com,https://www.zolostays.com,t,t,2026-11-02 00:23:50.099283+05:30,2026-11-02 00:23:50.099283+05:30
+46,HelloWorld HSR Layout,NestAway Technologies Pvt Ltd,pg_hostel,080-46809988,hello@helloworld.co.in,https://www.helloworld.co.in,t,t,2026-11-02 00:23:50.099289+05:30,2026-11-02 00:23:50.099289+05:30
+47,Brigade Gateway Rajajinagar,Brigade Enterprises Ltd,real_estate_agency,080-41379200,sales@brigadegroup.com,https://www.brigadegroup.com,t,t,2026-11-02 00:23:50.10183+05:30,2026-11-02 00:23:50.10183+05:30
+48,Brigade Metropolis Whitefield,Brigade Enterprises Ltd,real_estate_agency,080-41379201,sales.whitefield@brigadegroup.com,https://www.brigadegroup.com,t,t,2026-11-02 00:23:50.10191+05:30,2026-11-02 00:23:50.10191+05:30
+49,Sobha Silicon Oasis E-City,Sobha Limited,real_estate_agency,080-49320000,sales@sobha.com,https://www.sobha.com,t,t,2026-11-02 00:23:50.101929+05:30,2026-11-02 00:23:50.101929+05:30
+50,Prestige Falcon City Banashankari,Prestige Estates Projects Ltd,real_estate_agency,080-25591080,sales@prestigeconstructions.com,https://www.prestigeconstructions.com,t,t,2026-11-02 00:23:50.101943+05:30,2026-11-02 00:23:50.101943+05:30
+51,NoBroker Verified Rentals HSR,NoBroker Technologies Solutions Pvt Ltd,real_estate_agency,09241700000,rentals.hsr@nobroker.in,https://www.nobroker.in,t,t,2026-11-02 00:23:50.101958+05:30,2026-11-02 00:23:50.101958+05:30
+52,Vidyarthi Bhavan Gandhi Bazaar,Vidyarthi Bhavan Heritage Mess,restaurant,080-26677588,contact@vidyarthibhavan.in,http://www.vidyarthibhavan.in,t,t,2026-11-02 00:23:50.101996+05:30,2026-11-02 00:23:50.101996+05:30
+53,Meghana Foods Koramangala,Meghana Foods Pvt Ltd,restaurant,080-25501111,koramangala@meghanafoods.co.in,https://www.meghanafoods.co.in,t,t,2026-11-02 00:23:50.102019+05:30,2026-11-02 00:23:50.102019+05:30
+54,Meghana Foods Indiranagar,Meghana Foods Pvt Ltd,restaurant,080-25211111,indiranagar@meghanafoods.co.in,https://www.meghanafoods.co.in,t,t,2026-11-02 00:23:50.102035+05:30,2026-11-02 00:23:50.102035+05:30
+55,Meghana Foods Marathahalli,Meghana Foods Pvt Ltd,restaurant,080-25401111,marathahalli@meghanafoods.co.in,https://www.meghanafoods.co.in,t,t,2026-11-02 00:23:50.102049+05:30,2026-11-02 00:23:50.102049+05:30
+56,Truffles Koramangala,Truffles Hospitality Pvt Ltd,restaurant,080-41466565,orders@truffles.co.in,https://www.truffles.co.in,t,t,2026-11-02 00:23:50.102066+05:30,2026-11-02 00:23:50.102066+05:30
+57,Truffles Indiranagar,Truffles Hospitality Pvt Ltd,restaurant,080-41466566,indiranagar@truffles.co.in,https://www.truffles.co.in,t,t,2026-11-02 00:23:50.102082+05:30,2026-11-02 00:23:50.102082+05:30
+58,CTR Shri Sagar Malleshwaram,Central Tiffin Room Heritage,restaurant,080-23317184,ctr.heritage@gmail.com,,t,t,2026-11-02 00:23:50.102141+05:30,2026-11-02 00:23:50.102141+05:30
+59,Third Wave Coffee Koramangala,Heisetasse Beverages Pvt Ltd,restaurant,080-49652233,hello@thirdwavecoffee.in,https://www.thirdwavecoffee.in,t,t,2026-11-02 00:23:50.102156+05:30,2026-11-02 00:23:50.102156+05:30
+60,Third Wave Coffee Indiranagar,Heisetasse Beverages Pvt Ltd,restaurant,080-49652244,indiranagar@thirdwavecoffee.in,https://www.thirdwavecoffee.in,t,t,2026-11-02 00:23:50.102169+05:30,2026-11-02 00:23:50.102169+05:30
+61,Absolute Barbecues Marathahalli,Absolute Barbecues India Pvt Ltd,restaurant,080-49653300,marathahalli@absolute-barbecue.com,https://www.absolute-barbecue.com,t,t,2026-11-02 00:23:50.102184+05:30,2026-11-02 00:23:50.102184+05:30
+62,Delhi Public School Bangalore North,DPS Bangalore Society,school,080-29738888,info@dpsnorth.edu.in,https://dpsnorth.edu.in,t,t,2026-11-02 00:23:50.102206+05:30,2026-11-02 00:23:50.102206+05:30
+63,Greenwood High Sarjapur,Greenwood High International Trust,school,080-22010500,admissions@greenwoodhigh.edu.in,https://www.greenwoodhigh.edu.in,t,t,2026-11-02 00:23:50.102259+05:30,2026-11-02 00:23:50.102259+05:30
+64,Allen Career Institute HSR,Allen Career Institute Overseas Pvt Ltd,institute,080-46704000,info.hsr@allen.ac.in,https://www.allen.ac.in,t,t,2026-11-02 00:23:50.102306+05:30,2026-11-02 00:23:50.102306+05:30
+65,Aakash Institute Indiranagar,Aakash Educational Services Limited,institute,080-40611111,care@aesl.in,https://www.aakash.ac.in,t,t,2026-11-02 00:23:50.10232+05:30,2026-11-02 00:23:50.10232+05:30
+66,Scaler Academy BTM,InterviewBit Scaler Technologies,institute,080-45681122,contact@scaler.com,https://www.scaler.com,t,t,2026-11-02 00:23:50.102332+05:30,2026-11-02 00:23:50.102332+05:30
+67,Gold's Gym Indiranagar,Gold's Gym Fitness Institute,gym,080-41153322,indiranagar@goldsgymindia.com,https://www.goldsgymindia.com,t,t,2026-11-02 00:23:50.102346+05:30,2026-11-02 00:23:50.102346+05:30
+68,Anytime Fitness Koramangala,Anytime Fitness India,gym,080-41224488,koramangala@anytimefitness.co.in,https://www.anytimefitness.co.in,t,t,2026-11-02 00:23:50.102363+05:30,2026-11-02 00:23:50.102363+05:30
+69,Shwaasa Yoga Studio Malleshwaram,Shwaasa Yoga Sanstha Trust,gym,080-23467788,info@shwaasa.org,https://www.shwaasa.org,t,t,2026-11-02 00:23:50.102376+05:30,2026-11-02 00:23:50.102376+05:30
+70,Cult.fit Indiranagar,Curefit Healthcare Pvt Ltd,gym,080-68190001,indiranagar@cult.fit,https://www.cult.fit,t,t,2026-11-02 00:23:50.102419+05:30,2026-11-02 00:23:50.102419+05:30
+71,DMart Electronic City,Avenue Supermarts Limited,retail,080-28529900,care@dmartindia.com,https://www.dmartindia.com,t,t,2026-11-02 00:23:50.102433+05:30,2026-11-02 00:23:50.102433+05:30
+72,DMart Banashankari,Avenue Supermarts Limited,retail,080-26719900,banashankari@dmartindia.com,https://www.dmartindia.com,t,t,2026-11-02 00:23:50.102459+05:30,2026-11-02 00:23:50.102459+05:30
+73,More Megastore Marathahalli,More Retail Private Limited,retail,080-41539911,marathahalli@moreretail.in,https://www.moreretail.in,t,t,2026-11-02 00:23:50.102471+05:30,2026-11-02 00:23:50.102471+05:30
+74,MK Retail Indiranagar,MK Ahmed Group of Stores,retail,080-25203344,indiranagar@mkretail.in,https://www.mkretail.in,t,t,2026-11-02 00:23:50.102482+05:30,2026-11-02 00:23:50.102482+05:30
+75,Star Bazaar Koramangala,Trent Hypermarket Pvt Ltd (Tata),retail,080-49035500,star.koramangala@trent-tata.com,https://www.starbazaarindia.com,t,t,2026-11-02 00:23:50.102496+05:30,2026-11-02 00:23:50.102496+05:30

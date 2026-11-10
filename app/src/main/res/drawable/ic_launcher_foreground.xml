@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Subtle Drop Shadow under "P" Monogram -->
+    <path
+        android:pathData="M31,34 L41,34 L41,80 A3,3 0 0,1 38,83 L33,83 A3,3 0 0,1 31,80 Z"
+        android:fillColor="#15000000"/>
+
+    <!-- PricePulse "P" Monogram Stem (Crisp Solid White) -->
+    <path
+        android:pathData="M30,30 L41,30 A2,2 0 0,1 43,32 L43,76 A3,3 0 0,1 40,79 L33,79 A3,3 0 0,1 30,76 L30,30 Z"
+        android:fillColor="#FFFFFF"/>
+
+    <!-- "P" Monogram Loop (Bold Geometric Curve) -->
+    <path
+        android:pathData="M41,30 L63,30 C73,30 80,36.5 80,46 C80,55.5 73,62 63,62 L43,62 L43,51 L61,51 C66,51 70,48.5 70,46 C70,43.5 66,41 61,41 L41,41 Z"
+        android:fillColor="#FFFFFF"/>
+
+    <!-- Rupee / Price Transparency Accent Notches -->
+    <path
+        android:pathData="M24,41 L41,41"
+        android:strokeColor="#BAE6FD"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M24,49 L43,49"
+        android:strokeColor="#BAE6FD"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"/>
+
+    <!-- Dynamic Pulse / Market Heartbeat Line (Electric Cyan to Emerald) -->
+    <path
+        android:pathData="M22,64 L36,64 L42,56 L48,73 L56,36 L64,68 L71,55 L78,55 L86,37"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="22"
+                android:startY="64"
+                android:endX="86"
+                android:endY="37"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#38BDF8"/>
+                <item android:offset="0.5" android:color="#22D3EE"/>
+                <item android:offset="1.0" android:color="#10B981"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Upward Trend Arrowhead at (86, 37) -->
+    <path
+        android:pathData="M74,37 L86,37 L86,49"
+        android:strokeColor="#10B981"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+
+    <!-- Peak Pulse Spark Beacon (56, 36) -->
+    <path
+        android:pathData="M56,36 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0"
+        android:fillColor="#38BDF8"/>
+
+    <!-- Fair Price Verified Target Beacon at (86, 37) -->
+    <path
+        android:pathData="M86,37 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"
+        android:fillColor="#10B981"/>
+    <path
+        android:pathData="M86,37 m-1.8,0 a1.8,1.8 0 1,0 3.6,0 a1.8,1.8 0 1,0 -3.6,0"
+        android:fillColor="#FFFFFF"/>
+
+</vector>

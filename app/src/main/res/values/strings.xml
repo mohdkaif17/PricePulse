@@ -1,0 +1,252 @@
+<resources>
+    <!-- Application Strings -->
+    <string name="app_name">PricePulse</string>
+    <string name="app_tagline">Fair Price Intelligence Platform</string>
+    <string name="splash_subtitle">Fair Price Intelligence</string>
+    <string name="splash_footer_tagline">Discover • Compare • Save Fairly</string>
+    <string name="app_description">Fair Price Intelligence &amp; Real-time Comparison Platform</string>
+
+    <!-- Authentication Strings -->
+    <string name="auth_welcome_back">Welcome Back 👋</string>
+    <string name="auth_login_subtitle">Sign in to discover and compare fair prices</string>
+    <string name="auth_create_account_title">Create Account</string>
+    <string name="auth_register_subtitle">Join PricePulse for real-time fair market intelligence</string>
+    <string name="auth_full_name_label">Full Name</string>
+    <string name="auth_full_name_hint">Enter your full name</string>
+    <string name="auth_email_label">Email Address</string>
+    <string name="auth_email_hint">Enter your email</string>
+    <string name="auth_password_label">Password</string>
+    <string name="auth_password_hint">Enter your password</string>
+    <string name="auth_confirm_password_label">Confirm Password</string>
+    <string name="auth_confirm_password_hint">Confirm your password</string>
+    <string name="auth_btn_login">LOGIN</string>
+    <string name="auth_btn_register">REGISTER</string>
+    <string name="auth_forgot_password">Forgot Password?</string>
+    <string name="auth_no_account_prefix">Don\'t have an account? </string>
+    <string name="auth_register_action">Register</string>
+    <string name="auth_have_account_prefix">Already have an account? </string>
+    <string name="auth_login_action">Login</string>
+    <string name="auth_guest_continue">Continue as Guest →</string>
+    <string name="auth_err_empty_name">Please enter your full name</string>
+    <string name="auth_err_empty_email">Please enter your email</string>
+    <string name="auth_err_invalid_email">Please enter a valid email address</string>
+    <string name="auth_err_empty_password">Please enter your password</string>
+    <string name="auth_err_short_password">Password must be at least 6 characters</string>
+    <string name="auth_err_empty_confirm_password">Please confirm your password</string>
+    <string name="auth_err_passwords_mismatch">Passwords do not match</string>
+    <string name="auth_toast_register_success">Registration successful. Please login.</string>
+    <string name="auth_toast_forgot_password_notice">Password reset will be available with Firebase Auth</string>
+
+    <!-- Header & Location -->
+    <string name="header_greeting">Good Morning 👋</string>
+    <string name="header_platform_badge">Fair Price Intelligence</string>
+    <string name="demo_location_city">Bangalore</string>
+    <string name="demo_location_full">Bangalore, KA</string>
+    <string name="demo_location_hint">Demo Location (GPS module placeholder)</string>
+
+    <!-- Search Section -->
+    <string name="search_hint">Search products, shops...</string>
+
+    <!-- Categories Section -->
+    <string name="title_categories">Categories</string>
+    <string name="subtitle_categories">Explore verified fair market price categories</string>
+    <string name="category_electronics">Electronics</string>
+    <string name="category_electronics_sub">Gadgets &amp; Devices</string>
+    <string name="category_real_estate">Rent &amp; Real Estate</string>
+    <string name="category_real_estate_sub">Flats, PGs &amp; Shops</string>
+    <string name="category_vehicles">Vehicles</string>
+    <string name="category_vehicles_sub">Cars, Bikes &amp; Auto</string>
+    <string name="category_healthcare">Healthcare</string>
+    <string name="category_healthcare_sub">Medicines &amp; Labs</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_restaurants_sub">Dining &amp; Takeaway</string>
+    <string name="category_education">Education</string>
+    <string name="category_education_sub">Tuitions &amp; Training</string>
+    <string name="category_hotels">Hotels &amp; Stays</string>
+    <string name="category_hotels_sub">Hotels, PGs &amp; Resorts</string>
+    <string name="category_home_services">Home Services</string>
+    <string name="category_home_services_sub">Repairs &amp; Cleaning</string>
+    <string name="category_fitness">Fitness &amp; Wellness</string>
+    <string name="category_fitness_sub">Gyms &amp; Personal Care</string>
+    <string name="category_shopping">Daily Essentials</string>
+    <string name="category_shopping_sub">Groceries &amp; Retail</string>
+
+    <!-- Nearby Deals Section -->
+    <string name="title_nearby_deals">Nearby Deals</string>
+    <string name="subtitle_nearby_deals">Verified prices compared with market averages</string>
+    <string name="action_view_all">View All</string>
+
+    <!-- Demo Deals Data -->
+    <string name="deal_1_title">Samsung Galaxy S24 (256GB)</string>
+    <string name="deal_1_shop">Apex Digital Hub • 1.2 km</string>
+    <string name="deal_1_price">₹74,999</string>
+    <string name="deal_1_avg">Market Avg: ₹79,990</string>
+
+    <string name="deal_2_title">2 BHK Apartment Monthly Rent</string>
+    <string name="deal_2_shop">Indiranagar 100ft Rd • 3.5 km</string>
+    <string name="deal_2_price">₹38,000 /mo</string>
+    <string name="deal_2_avg">Market Avg: ₹37,500</string>
+
+    <string name="deal_3_title">Sony WH-1000XM5 ANC Headphones</string>
+    <string name="deal_3_shop">Nexus Sound Lounge • 0.8 km</string>
+    <string name="deal_3_price">₹32,490</string>
+    <string name="deal_3_avg">Market Avg: ₹28,990</string>
+
+    <string name="deal_4_title">Premium Synthetic Engine Oil (4L)</string>
+    <string name="deal_4_shop">Speedy Auto Spares • 2.1 km</string>
+    <string name="deal_4_price">₹4,850</string>
+    <string name="deal_4_avg">Market Avg: ₹3,100</string>
+
+    <!-- Price Intelligence Status Indicators -->
+    <string name="price_status_fair">Fair Price</string>
+    <string name="price_status_slightly_expensive">Slightly Expensive</string>
+    <string name="price_status_overpriced">Overpriced</string>
+    <string name="price_status_best_deal">Best Deal Nearby</string>
+
+    <!-- Price Status Descriptions / Badges -->
+    <string name="price_status_fair_desc">Within fair market valuation range</string>
+    <string name="price_status_slightly_expensive_desc">Slightly higher than fair market average</string>
+    <string name="price_status_overpriced_desc">Significantly above fair market price</string>
+    <string name="price_status_best_deal_desc">Lowest verified price in your vicinity</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Category Screen Strings -->
+    <string name="btn_back_description">Go back</string>
+    <string name="search_category_products_hint">Search products...</string>
+    <string name="title_popular_products">Popular Products</string>
+    <string name="subtitle_popular_products">Select a product to explore fair price benchmarks</string>
+    <string name="action_compare_prices">Compare Prices</string>
+    <string name="toast_product_selected">Product selected: %1$s</string>
+
+    <!-- Category Descriptions -->
+    <string name="desc_category_electronics">Compare prices for gadgets and devices</string>
+    <string name="desc_category_real_estate">Fair rental benchmarks for flats, PGs and properties</string>
+    <string name="desc_category_vehicles">Market valuation for new and pre-owned automobiles</string>
+    <string name="desc_category_healthcare">Fair price intelligence for medicines, tests and consults</string>
+    <string name="desc_category_restaurants">Standard pricing for meals, dining and takeaway combos</string>
+    <string name="desc_category_education">Tuition benchmarks and professional coaching fees</string>
+
+    <!-- Product Details Screen Strings -->
+    <string name="title_product_details">Product Details</string>
+    <string name="label_current_price">Current Price</string>
+    <string name="label_market_average_prefix">Market Average: %1$s</string>
+    <string name="desc_fair_price_product">Current price is within the expected market range</string>
+    <string name="label_best_deal_nearby_badge">Best Deal Nearby</string>
+    <string name="desc_best_deal_store">Indiranagar • 1.2 km away</string>
+    <string name="title_price_comparison">Price Comparison</string>
+    <string name="subtitle_price_comparison">Verified real-time prices from nearby retailers</string>
+    <string name="action_compare_all_prices">Compare All Prices</string>
+    <string name="title_about_product">About this product</string>
+    <string name="label_category_field">Category</string>
+    <string name="label_availability_field">Availability</string>
+    <string name="label_availability_value">In Stock (3 verified local shops)</string>
+    <string name="label_last_updated_field">Last Updated</string>
+    <string name="label_last_updated_value">Updated 15 mins ago (Verified)</string>
+    <string name="action_save_product">Save Product</string>
+    <string name="toast_price_comparison_coming_next">Price comparison coming next</string>
+    <string name="toast_product_saved">Product saved</string>
+
+    <!-- Shop Details Screen Strings -->
+    <string name="title_shop_details">Shop Details</string>
+    <string name="title_about_shop">About Shop</string>
+    <string name="title_shop_products_prices">Products &amp; Prices</string>
+    <string name="subtitle_shop_products_prices">Verified fair market prices at this location</string>
+    <string name="label_shop_name_field">Shop Name</string>
+    <string name="label_location_field">Location</string>
+    <string name="label_distance_field">Distance</string>
+    <string name="label_rating_field">Rating</string>
+    <string name="label_opening_status_field">Opening Status</string>
+    <string name="label_status_open_now">Open now</string>
+    <string name="label_status_open_hours">Open now (9:00 AM - 9:30 PM)</string>
+    <string name="action_view_on_map">View on Map</string>
+    <string name="action_save_shop">Save Shop</string>
+    <string name="toast_map_coming_next">Map feature coming next</string>
+    <string name="toast_shop_saved">Shop saved</string>
+
+    <!-- Price Comparison Screen Strings -->
+    <string name="title_price_comparison_header">Price Comparison</string>
+    <string name="desc_price_comparison_header">Compare nearby prices before you buy.</string>
+    <string name="label_reference_price">Reference Price</string>
+    <string name="label_market_average">Market Average</string>
+    <string name="label_current_best_price">Current Best Price</string>
+    <string name="label_savings">Savings</string>
+    <string name="label_compare_prices_nearby">Compare Prices Nearby</string>
+    <string name="subtitle_compare_prices_nearby">Verified price listings from local shops</string>
+    <string name="label_nearby_shops">Compare Prices Nearby</string>
+    <string name="subtitle_nearby_shops">Verified price listings from local shops</string>
+    <string name="label_sort_by">Sort by:</string>
+    <string name="sort_lowest_price">Lowest Price</string>
+    <string name="sort_nearest">Nearest</string>
+    <string name="sort_best_deal">Best Deal</string>
+    <string name="action_view_shop">View Shop</string>
+    <string name="note_prices_based_on_listings">Prices are based on available local listings.</string>
+
+    <!-- Price History and Trend Screen Strings -->
+    <string name="title_price_history">Price History</string>
+    <string name="desc_price_history">Track how the price has changed over time.</string>
+    <string name="action_view_price_history">View Price History</string>
+    <string name="title_price_trend">Price Trend</string>
+    <string name="title_historical_prices">Historical Prices</string>
+    <string name="subtitle_historical_prices">Monthly recorded prices</string>
+    <string name="title_price_summary">Price Summary</string>
+    <string name="label_highest_price">Highest Price</string>
+    <string name="label_lowest_price">Lowest Price</string>
+    <string name="label_average_price">Average Price</string>
+    <string name="title_price_tracking">Price Tracking</string>
+    <string name="desc_price_tracking_fair">Current price is below the market average.</string>
+    <string name="title_price_trend_insight">Price Trend</string>
+    <string name="desc_price_trend_insight">The price has decreased compared with the earlier recorded prices.</string>
+    <string name="range_7d">7 Days</string>
+    <string name="range_30d">30 Days</string>
+    <string name="range_3m">3 Months</string>
+    <string name="range_6m">6 Months</string>
+    <string name="range_1y">1 Year</string>
+
+    <!-- Map & Nearby Shops Screen Strings -->
+    <string name="title_nearby_shops_map">Nearby Shops</string>
+    <string name="hint_search_shops">Search shops...</string>
+    <string name="label_your_location">Your Location</string>
+    <string name="toast_live_location_notice">Live location will be connected later</string>
+    <string name="filter_nearest">Nearest</string>
+    <string name="filter_lowest_price">Lowest Price</string>
+    <string name="filter_best_deal">Best Deal</string>
+    <string name="filter_fair_price">Fair Price</string>
+    <string name="action_use_my_location">Use My Location</string>
+    <string name="subtitle_map_shops">Tap any pin to preview prices</string>
+
+    <!-- Profile & Settings Screen Strings -->
+    <string name="title_profile">Profile</string>
+    <string name="user_mock_name">Umme Rabiya</string>
+    <string name="user_mock_email">umme.rabiya@example.com</string>
+    <string name="user_mock_role">PricePulse User</string>
+    <string name="section_preferences">Preferences</string>
+    <string name="setting_location">Location</string>
+    <string name="setting_notifications">Notifications</string>
+    <string name="setting_price_alerts">Price Alerts</string>
+    <string name="setting_dark_mode">Dark Mode</string>
+    <string name="section_app">App</string>
+    <string name="setting_about">About PricePulse</string>
+    <string name="setting_help">Help &amp; Support</string>
+    <string name="setting_privacy">Privacy Policy</string>
+    <string name="auth_phone_label">Mobile Number</string>
+    <string name="auth_phone_hint">Enter 10-digit mobile number</string>
+    <string name="auth_err_empty_phone">Please enter your mobile number</string>
+    <string name="auth_err_invalid_phone">Please enter a valid 10-digit mobile number</string>
+    <string name="profile_edit_title">Edit Profile</string>
+    <string name="profile_change_password_title">Change Password</string>
+    <string name="profile_member_since">Member Since</string>
+    <string name="profile_user_id">User ID</string>
+    <string name="profile_mobile_label">Mobile</string>
+    <string name="profile_status_active">Active Account</string>
+    <string name="profile_status_pending">Pending Review</string>
+    <string name="action_logout">Log Out</string>
+    <string name="msg_location_dialog">Location services will be connected later.</string>
+    <string name="msg_about_dialog">PricePulse helps users compare local prices and identify fair deals.</string>
+    <string name="msg_help_dialog">Help &amp; Support: For inquiries or assistance, please contact support@pricepulse.com.</string>
+    <string name="msg_privacy_dialog">Privacy policy will be added in the final version.</string>
+    <string name="msg_logout_confirm">Are you sure you want to log out?</string>
+</resources>

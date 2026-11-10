@@ -1,0 +1,110 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <!-- Outer Squircle Badge with Smooth Rounded Corners -->
+    <path
+        android:pathData="M30,8 L66,8 A22,22 0 0,1 88,30 L88,66 A22,22 0 0,1 66,88 L30,88 A22,22 0 0,1 8,66 L8,30 A22,22 0 0,1 30,8 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="12"
+                android:startY="8"
+                android:endX="84"
+                android:endY="88"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#0F2B66"/>
+                <item android:offset="0.4" android:color="#1E40AF"/>
+                <item android:offset="1.0" android:color="#2563EB"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Subtle Glassmorphic Outer Stroke Highlight -->
+    <path
+        android:pathData="M30,8.75 L66,8.75 A21.25,21.25 0 0,1 87.25,30 L87.25,66 A21.25,21.25 0 0,1 66,87.25 L30,87.25 A21.25,21.25 0 0,1 8.75,66 L8.75,30 A21.25,21.25 0 0,1 30,8.75 Z"
+        android:strokeColor="#5093E8"
+        android:strokeAlpha="0.4"
+        android:strokeWidth="1.5"/>
+
+    <!-- Subtle Radar Pulse Radial Echo (Background Wave) -->
+    <path
+        android:pathData="M48,48 m-32,0 a32,32 0 1,0 64,0 a32,32 0 1,0 -64,0"
+        android:strokeColor="#38BDF8"
+        android:strokeAlpha="0.12"
+        android:strokeWidth="1"/>
+    <path
+        android:pathData="M48,48 m-22,0 a22,22 0 1,0 44,0 a22,22 0 1,0 -44,0"
+        android:strokeColor="#38BDF8"
+        android:strokeAlpha="0.18"
+        android:strokeWidth="1"/>
+
+    <!-- PricePulse "P" Monogram Base Ribbon (Pure Crisp White) -->
+    <!-- Vertical Spine / Stem of "P" -->
+    <path
+        android:pathData="M24,24 L33,24 A2,2 0 0,1 35,26 L35,68 A3,3 0 0,1 32,71 L26,71 A2,2 0 0,1 24,69 L24,24 Z"
+        android:fillColor="#FFFFFF"/>
+
+    <!-- Upper Loop of "P" with Dynamic Finishes -->
+    <path
+        android:pathData="M33,24 L52,24 C61.5,24 68,29.5 68,38 C68,46.5 61.5,52 52,52 L35,52 L35,43 L51,43 C55.5,43 59,41 59,38 C59,35 55.5,33 51,33 L33,33 Z"
+        android:fillColor="#FFFFFF"/>
+
+    <!-- Rupee / Price Transparency Accent Bar (Sleek Horizontal Notches) -->
+    <path
+        android:pathData="M20,33 L33,33"
+        android:strokeColor="#93C5FD"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M20,40 L35,40"
+        android:strokeColor="#93C5FD"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"/>
+
+    <!-- Dynamic Pulse / Heartbeat Line (Electric Cyan to Emerald Green) -->
+    <!-- Path: Extends through the "P", spikes dynamically, rises to market peak -->
+    <path
+        android:pathData="M18,57 L30,57 L35,50 L41,65 L48,32 L55,59 L61,48 L68,48 L76,32"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="18"
+                android:startY="57"
+                android:endX="76"
+                android:endY="32"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#38BDF8"/>
+                <item android:offset="0.45" android:color="#22D3EE"/>
+                <item android:offset="1.0" android:color="#10B981"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Upward Growth Arrowhead at (76, 32) -->
+    <path
+        android:pathData="M66,32 L76,32 L76,42"
+        android:strokeColor="#10B981"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+
+    <!-- Radiant Glowing Beacon Dots -->
+    <!-- Market Peak Beacon (Pulse Summit at 48, 32) -->
+    <path
+        android:pathData="M48,32 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0"
+        android:fillColor="#38BDF8"/>
+
+    <!-- Fair Price Verified Target Beacon at (76, 32) -->
+    <path
+        android:pathData="M76,32 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0"
+        android:fillColor="#10B981"/>
+    <path
+        android:pathData="M76,32 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0"
+        android:fillColor="#FFFFFF"/>
+
+</vector>
