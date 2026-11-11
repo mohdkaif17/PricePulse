@@ -30,7 +30,14 @@ async def test_pulsepost_complete_end_to_end_flow():
         user_id = auth_data["user_id"]
         headers = {"Authorization": f"Bearer {token}"}
 
-        # 2. Submit a new PulsePost listing (e.g. Real Estate 2 BHK Flat rental in Koramangala)
+        # 2. Get valid price types for Category 6 (Real Estate)
+        res_pt = await ac.get("/api/v1/price-types?category_id=6")
+        assert res_pt.status_code == 200, f"Failed to get price types: {res_pt.text}"
+        price_types = res_pt.json()
+        assert len(price_types) > 0, "No price types found for Category 6"
+        valid_pt_id = price_types[0]["id"]
+
+        # 3. Submit a new PulsePost listing (e.g. Real Estate 2 BHK Flat rental in Koramangala)
         pulsepost_payload = {
             "locality_id": 1,  # Koramangala
             "category_id": 6,  # Real Estate & Rentals
@@ -38,7 +45,7 @@ async def test_pulsepost_complete_end_to_end_flow():
             "title": f"Prestige Starlight 2 BHK ({suffix})",
             "brand_or_provider_name": "Prestige Group Properties",
             "price_amount": 32000.0,
-            "price_type_id": 2,  # Monthly Rent
+            "price_type_id": valid_pt_id,
             "currency": "INR",
             "source_type": "USER_SUBMITTED",
             "is_price_available": True,
